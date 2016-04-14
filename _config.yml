@@ -1,6 +1,6 @@
 name: terrytyelee
 favicon: null
-layout_spectrum: 0.1415771
+layout_spectrum: 0.87447
 typography_spectrum: 0.13505
 title: part time prophet
 cta:
@@ -22,7 +22,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.3924222
+  brandStrength: 0.5
   lightness: 0.7688172
   saturation: 0.6039426
   rhythmicContrast: 0.5627605
