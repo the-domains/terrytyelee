@@ -1,14 +1,29 @@
+name: terrytyelee
+favicon: null
 layout_spectrum: 0.1415771
+typography_spectrum: 0.5340502
+title: part time prophet
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6039426
-  brandStrength: 0.3924222
-  lightness: 0.7688172
-  rhythmicContrast: 0.5627605
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-typography_spectrum: 0.5340502
-name: terrytyelee
+  brandStrength: 0.3924222
+  lightness: 0.7688172
+  saturation: 0.6039426
+  rhythmicContrast: 0.5627605
+purpose: []
