@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[terrytyelee]]></title>
+        <description><![CDATA[terrytyelee]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Apr 2016 08:40:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Top Bill]]></title>
+            <description><![CDATA[<article><h1>Top Bill</h1><p>listen</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd736752-dc32-455a-b161-fee5ec60d2cd.jpg"></article>]]></description>
+            <link>undefinedtop-bill/index.html</link>
+            <guid isPermaLink="false">64fe62ce-e664-4ec2-851f-1d862d45fc71</guid>
+            <pubDate>Fri, 15 Apr 2016 08:38:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
