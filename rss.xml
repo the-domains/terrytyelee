@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[part time prophet]]></title>
         <description><![CDATA[part time prophet]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/terrytyelee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 06:45:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 05:20:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/terrytyelee/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>https://soundcloud.com/scfchynahouse/hey-bae</p>]]></description>
-            <link>undefined3fdf758f-52da-4fe5-b518-ca49bdfadf0d/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/519fd263-f440-4edc-af02-6de81fecef03.jpg">]]></description>
+            <link>https://thegrid.ai/terrytyelee/3fdf758f-52da-4fe5-b518-ca49bdfadf0d/index.html</link>
             <guid isPermaLink="false">3fdf758f-52da-4fe5-b518-ca49bdfadf0d</guid>
-            <pubDate>Thu, 14 Apr 2016 06:45:11 GMT</pubDate>
+            <pubDate>Fri, 15 Apr 2016 05:19:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
