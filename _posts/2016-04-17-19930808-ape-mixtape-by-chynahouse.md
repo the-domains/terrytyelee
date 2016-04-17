@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://soundcloud.com/scfchynahouse/sets/ape19930808'
+inLanguage: null
+starred: true
+keywords: []
+description: 'www.apekao.com www.chynahouse.com production/compostion: terrytyelee, ape kao, red dragon, james kerridge, zhiyin wang, c-infamous executive producer: terrytyelee'
+datePublished: '2016-04-17T16:37:52.849Z'
+dateModified: '2016-04-17T16:37:52.208Z'
 author:
   - name: ChynaHouse
     url: 'http://soundcloud.com/scfchynahouse'
     avatar: {}
 related: []
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-keywords: []
-description: 'www.apekao.com www.chynahouse.com production/compostion: terrytyelee, ape kao, red dragon, james kerridge, zhiyin wang, c-infamous executive producer: terrytyelee'
 app_links:
   - type: ios
     namespace: ai
@@ -48,15 +51,15 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/scfchynahouse/sets/ape19930808'
 title: '#19930808 - APE (Mixtape) by ChynaHouse'
-datePublished: '2016-04-17T13:59:31.472Z'
-dateModified: '2016-04-17T13:57:39.585Z'
 sourcePath: _posts/2016-04-17-19930808-ape-mixtape-by-chynahouse.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 _type: AudioObject
 _context: 'http://schema.org'
 
