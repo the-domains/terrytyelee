@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://soundcloud.com/scfchynahouse/hey-bae'
+inLanguage: null
+starred: true
+keywords: []
+description: 'sung: Julia Wu composed by: terrytyelee / Fiittdz Carter produced by: terrytyelee / Fiittdz Carter additional programming: terrytyelee/FishRedDragon unmixed and unmastered executive producer: terrytyelee www.chynahouse.com FB: Julia Wu Music'
+datePublished: '2016-04-17T16:36:33.375Z'
+dateModified: '2016-04-17T16:36:32.300Z'
 author:
   - name: ChynaHouse
     url: 'http://soundcloud.com/scfchynahouse'
     avatar: {}
 related: []
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-keywords: []
-description: 'sung: Julia Wu composed by: terrytyelee / Fiittdz Carter produced by: terrytyelee / Fiittdz Carter additional programming: terrytyelee/FishRedDragon unmixed and unmastered executive producer: terrytyelee www.chynahouse.com FB: Julia Wu Music'
 app_links:
   - type: ios
     namespace: ai
@@ -48,15 +51,15 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/scfchynahouse/hey-bae'
 title: Hey Bae - Julia Wu by ChynaHouse
-datePublished: '2016-04-17T13:58:35.869Z'
-dateModified: '2016-04-17T13:57:24.833Z'
 sourcePath: _posts/2016-04-17-hey-bae-julia-wu-by-chynahouse.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 _type: AudioObject
 _context: 'http://schema.org'
 
