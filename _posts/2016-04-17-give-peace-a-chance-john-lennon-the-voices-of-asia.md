@@ -17,8 +17,8 @@ keywords:
   - chance-john
   - haza
 description: 'HAPPY NEW YEAR once again, Humankind ! and Give Peace a Chance ============================================= John Lennon Feat The Voices of ASIA A video viewed at HO CHI MINH CITY TV7 ******** GBYA "Even a fool, when he holdeth his peace, is counted wise ..." Proverbs - 17 28'
-datePublished: '2016-04-17T14:22:17.801Z'
-dateModified: '2016-04-17T14:22:11.740Z'
+datePublished: '2016-04-17T16:50:17.966Z'
+dateModified: '2016-04-17T16:29:09.774Z'
 author:
   - name: ThanhBach
     url: 'https://www.youtube.com/user/ThanhBach'
@@ -62,14 +62,14 @@ app_links:
     namespace: google
     type: ios
 title: GIVE PEACE A CHANCE - John Lennon - The Voices of ASIA
+sourcePath: _posts/2016-04-17-give-peace-a-chance-john-lennon-the-voices-of-asia.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-04-17-give-peace-a-chance-john-lennon-the-voices-of-asia.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
