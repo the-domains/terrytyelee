@@ -1,6 +1,6 @@
 name: terrytyelee
 favicon: null
-layout_spectrum: 0.92153
+layout_spectrum: 0.15024
 typography_spectrum: 0.14525
 title: terrytyelee - songsmith
 cta:
@@ -22,8 +22,8 @@ color:
     - '#fefefe'
     - '#c6c3be'
     - '#97948f'
-  brandStrength: 0.5
-  lightness: 0.5625
+  brandStrength: 0.8125
+  lightness: 0.375
   saturation: 0.375
   rhythmicContrast: 0.5
 purpose: []
