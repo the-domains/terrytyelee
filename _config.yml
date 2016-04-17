@@ -1,6 +1,6 @@
 name: terrytyelee
 favicon: null
-layout_spectrum: 0.52421
+layout_spectrum: 0.76461
 typography_spectrum: 0.27213
 title: 'producer/songwriter/A&R/beatsmith/part-time prophet'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#fefefe'
     - '#c6c3be'
     - '#97948f'
-  brandStrength: 0.3125
+  brandStrength: 0.6875
   lightness: 0.4375
   saturation: 0.5625
   rhythmicContrast: 0.5
