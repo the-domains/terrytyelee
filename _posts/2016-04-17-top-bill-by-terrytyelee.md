@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://soundcloud.com/terrytyelee/top-bill-demo'
+inLanguage: null
+starred: false
+keywords: []
+description: www.chynahouse.com www.terrytyelee.com
+datePublished: '2016-04-17T16:36:53.246Z'
+dateModified: '2016-04-17T16:36:52.341Z'
 author:
   - name: terrytyelee
     url: 'http://soundcloud.com/terrytyelee'
     avatar: {}
 related: []
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-keywords: []
-description: www.chynahouse.com www.terrytyelee.com
 app_links:
   - type: ios
     namespace: ai
@@ -48,15 +51,15 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/terrytyelee/top-bill-demo'
 title: Top Bill by terrytyelee
-datePublished: '2016-04-17T13:58:08.605Z'
-dateModified: '2016-04-17T13:56:36.794Z'
 sourcePath: _posts/2016-04-17-top-bill-by-terrytyelee.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 _type: AudioObject
 _context: 'http://schema.org'
 
