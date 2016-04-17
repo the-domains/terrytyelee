@@ -17,8 +17,8 @@ keywords:
   - chance-john
   - haza
 description: 'HAPPY NEW YEAR once again, Humankind ! and Give Peace a Chance ============================================= John Lennon Feat The Voices of ASIA A video viewed at HO CHI MINH CITY TV7 ******** GBYA "Even a fool, when he holdeth his peace, is counted wise ..." Proverbs - 17 28'
-datePublished: '2016-04-17T16:50:54.656Z'
-dateModified: '2016-04-17T16:50:18.158Z'
+datePublished: '2016-04-17T19:16:42.618Z'
+dateModified: '2016-04-17T19:16:14.995Z'
 author:
   - name: ThanhBach
     url: 'https://www.youtube.com/user/ThanhBach'
@@ -75,8 +75,6 @@ _context: 'http://schema.org'
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/03a4bbcede8b30e749cff5c72a8217c63b90865b.jpg)
-
-  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01b8c76b-8969-4081-9074-9ac095622e0f.jpg)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FYL7MfA-0T_I%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYL7MfA-0T_I&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FYL7MfA-0T_I%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
