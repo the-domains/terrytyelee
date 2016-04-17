@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '作词：梁永泰（Terrytyelee） 作曲：梁永泰（Terrytyelee）、王知音 编曲：梁永泰（Terrytyelee） 制作人：梁永泰（Terrytyelee） Composer: Terrytyelee, ZhiYin Wang Lyricist&Arranger&Producer: Terrytyelee Ok我全部都给你 Ok我什么都不说 我当做没看见 我就什么都不做 我有一点像杯咖啡 我每天不能睡 绑好了我的NIKE AIR 不知道要怎么追 其实我没有找个女孩 我只找个同伴 这一场的考试 你会让我偷看 天灾地变 我也不会改变 我也不会改变 没有需要改变 别担心明天的早餐 别害怕今晚的孤单 别投降给什么困难 你不用负担 我帮你买单 我爱情也这么一点 不知道你看的对眼 有什么，你不能负担 你只要一喊 我就帮你买单 如果你觉得找不到 一种无限的爱 你永远都能靠 我有一点像自动手表 时间不会走掉 坐在这里等到 你觉得我最吃香 其实我没有找个女孩 我在找个同伴 银行## 你会站在门看 别的男人是学生 全部都爱偷懒 我有点像校长 你孩子们的家长 这是你的手 我不会放开 这是你的心 我不会乱摆 这是你的命 我不会乱来 这是你的爱 我不会乱猜 对不起 我没开车 我们坐个地铁 你前男友爱开跑车 忘了你和爱情的细节'
-datePublished: '2016-04-17T19:00:52.117Z'
-dateModified: '2016-04-17T19:00:51.457Z'
+datePublished: '2016-04-17T19:09:06.196Z'
+dateModified: '2016-04-17T19:08:59.575Z'
 author:
   - name: MICtianya
     url: 'https://www.youtube.com/user/MICtianya'
