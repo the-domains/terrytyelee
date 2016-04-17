@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://soundcloud.com'
   name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
   domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 keywords: []
 description: 'Stream Introducing CHYHSE, a playlist by ChynaHouse from desktop or your mobile device'
 app_links:
@@ -50,13 +50,16 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://soundcloud.com/scfchynahouse/sets/chyhse'
 title: Introducing CHYHSE by ChynaHouse
-datePublished: '2016-04-17T13:59:06.200Z'
-dateModified: '2016-04-17T13:57:47.770Z'
+datePublished: '2016-04-17T16:36:40.570Z'
+dateModified: '2016-04-17T16:29:37.627Z'
 sourcePath: _posts/2016-04-17-introducing-chyhse-by-chynahouse.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+authors: []
 _type: AudioObject
 _context: 'http://schema.org'
 
