@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  name: YouTube
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
 keywords:
   - duration
   - terrytyelee
@@ -23,34 +23,34 @@ keywords:
 description: Uploaded by terrytyelee on 2015-04-08.
 inLanguage: en
 app_links:
-  - url: 'vnd.youtube://www.youtube.com/watch?v=mJRJS2OusRw&feature=applinks'
+  - app_store_id: '544007664'
+    namespace: ai
+    app_name: YouTube
+    url: 'vnd.youtube://www.youtube.com/watch?v=mJRJS2OusRw&feature=applinks'
     type: ios
-    namespace: ai
-    app_store_id: '544007664'
+  - package: com.google.android.youtube
     app_name: YouTube
-  - url: 'vnd.youtube://www.youtube.com/watch?v=mJRJS2OusRw&feature=applinks'
+    namespace: ai
+    url: 'vnd.youtube://www.youtube.com/watch?v=mJRJS2OusRw&feature=applinks'
     type: android
-    namespace: ai
-    app_name: YouTube
-    package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=mJRJS2OusRw&feature=applinks'
     type: web
     namespace: ai
-  - url: 'vnd.youtube://www.youtube.com/watch?v=mJRJS2OusRw&feature=applinks'
+  - id: '544007664'
     namespace: twitter
+    url: 'vnd.youtube://www.youtube.com/watch?v=mJRJS2OusRw&feature=applinks'
     type: ipad
     name: YouTube
-    id: '544007664'
-  - url: 'vnd.youtube://www.youtube.com/watch?v=mJRJS2OusRw&feature=applinks'
+  - id: '544007664'
     namespace: twitter
+    url: 'vnd.youtube://www.youtube.com/watch?v=mJRJS2OusRw&feature=applinks'
     type: iphone
     name: YouTube
-    id: '544007664'
-  - url: 'https://www.youtube.com/watch?v=mJRJS2OusRw'
+  - id: com.google.android.youtube
     namespace: twitter
+    url: 'https://www.youtube.com/watch?v=mJRJS2OusRw'
     type: googleplay
     name: YouTube
-    id: com.google.android.youtube
   - path: http/www.youtube.com/watch?v=mJRJS2OusRw
     package: com.google.android.youtube
     namespace: google
@@ -61,13 +61,15 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=mJRJS2OusRw'
 title: www.terrytyelee.com
-datePublished: '2016-04-17T19:15:52.929Z'
-dateModified: '2016-04-17T19:12:20.502Z'
+datePublished: '2016-04-17T20:07:12.440Z'
+dateModified: '2016-04-17T19:57:27.319Z'
 sourcePath: _posts/2016-04-17-wwwterrytyeleecom.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: false
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
