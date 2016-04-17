@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://soundcloud.com'
   name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
   domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 keywords: []
 description: "Go! written by：terrytyelee and zhiyin verse 1 radio,radio, play this song, play tjhis music all night long, i want the world to know that nothing's wrong."
 app_links:
@@ -50,13 +50,16 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://soundcloud.com/terrytyelee/go-everything-is-2-0-demo-copy'
 title: 'Go! (Everything Is 2.0) - Demo by terrytyelee'
-datePublished: '2016-04-17T14:14:17.023Z'
-dateModified: '2016-04-17T14:13:27.167Z'
+datePublished: '2016-04-17T16:43:33.586Z'
+dateModified: '2016-04-17T14:18:23.099Z'
 sourcePath: _posts/2016-04-17-go-everything-is-20-demo-by-terrytyelee.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+authors: []
 _type: AudioObject
 _context: 'http://schema.org'
 
