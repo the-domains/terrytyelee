@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://soundcloud.com/scfchynahouse/sakit-hati'
+inLanguage: null
+starred: true
+keywords: []
+description: "It's been ten years since we last made music together. We are grateful for everything and everyone and humbled by life and love. Thank you for every moment."
+datePublished: '2016-04-17T16:36:02.141Z'
+dateModified: '2016-04-17T16:30:18.129Z'
 author:
   - name: ChynaHouse
     url: 'http://soundcloud.com/scfchynahouse'
     avatar: {}
 related: []
-publisher:
-  name: SoundCloud
-  domain: soundcloud.com
-  url: 'http://soundcloud.com'
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-keywords: []
-description: "It's been ten years since we last made music together. We are grateful for everything and everyone and humbled by life and love. Thank you for every moment."
 app_links:
   - type: ios
     namespace: ai
@@ -48,18 +51,15 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/scfchynahouse/sakit-hati'
 title: Sakit Hati - Trisno Ishak by ChynaHouse
-datePublished: '2016-04-17T14:28:57.300Z'
-dateModified: '2016-04-17T14:28:50.811Z'
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-starred: true
-authors: []
 sourcePath: _posts/2016-04-17-sakit-hati-trisno-ishak-by-chynahouse.md
 published: true
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 _type: AudioObject
 _context: 'http://schema.org'
 
