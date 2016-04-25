@@ -1,5 +1,8 @@
+name: terrytyelee
+favicon: null
+layout_spectrum: 0.41314
+typography_spectrum: 0.19366
 title: terrytyelee
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2168459
-  brandStrength: 0.5340502
-  lightness: 0.1953405
   brandColors:
     - '#030303'
     - '#44403d'
     - '#fefefe'
     - '#c6c3be'
     - '#97948f'
+  brandStrength: 0.5340502
+  lightness: 0.1953405
+  saturation: 0.2168459
   rhythmicContrast: 0.2885305
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: terrytyelee
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0
-layout_spectrum: 0.00246
+purpose: []
