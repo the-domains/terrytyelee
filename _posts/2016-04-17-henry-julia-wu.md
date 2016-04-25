@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=ehj8m5fCMLM'
+inLanguage: null
+keywords: []
+description: 'music / lyrics / produced by : terrytyelee beat : terrytyelee / dragon vocals : Julia Wu recorded by: Yufong Chen and Qu Guo mixed by: terrytyelee 100% Chinese Made ITUNES: https://itunes.apple.com/us/album/h.-e.-n.-r.-y-single/id1070832846?ign-mpt=uo%3D4 SPOTIFY: https://open.spotify.com/album/0At2hk0ZbXfVWcvcEOO6pN EP: https://soundcloud.com/scfchynahouse/sets/henry-ep FB : https://www.facebook.com/Julia-Wu-Music-338848782792419/?fref=ts INSTA: @juliawu94 www.chynahouse.com'
+datePublished: '2016-04-25T15:32:41.819Z'
+dateModified: '2016-04-25T15:32:40.991Z'
 author:
   - name: Julia Wu
     url: 'https://www.youtube.com/user/JUICYisvip'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: 'music / lyrics / produced by : terrytyelee beat : terrytyelee / dragon vocals : Julia Wu recorded by: Yufong Chen and Qu Guo mixed by: terrytyelee 100% Chinese Made ITUNES: https://itunes.apple.com/us/album/h.-e.-n.-r.-y-single/id1070832846?ign-mpt=uo%3D4 SPOTIFY: https://open.spotify.com/album/0At2hk0ZbXfVWcvcEOO6pN EP: https://soundcloud.com/scfchynahouse/sets/henry-ep FB : https://www.facebook.com/Julia-Wu-Music-338848782792419/?fref=ts INSTA: @juliawu94 www.chynahouse.com'
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=ehj8m5fCMLM'
 title: H.E.N.R.Y - Julia Wu
-datePublished: '2016-04-17T20:09:29.691Z'
-dateModified: '2016-04-17T20:08:37.837Z'
 sourcePath: _posts/2016-04-17-henry-julia-wu.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
