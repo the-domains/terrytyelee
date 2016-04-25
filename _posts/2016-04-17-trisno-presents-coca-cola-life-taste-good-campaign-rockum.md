@@ -1,14 +1,9 @@
 ---
-author:
-  - name: TrisnoTube
-    url: 'https://www.youtube.com/user/TrisnoTube'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=OWETBtrVChE'
+inLanguage: en
 keywords:
   - duration
   - trisnotube
@@ -21,7 +16,13 @@ keywords:
   - presents
   - jelly
 description: "Hello WORLD! This is the brand that kick-started my journey (with Urban Xchange) into the commercial music scene, regionally - The 2001 Coca Cola 'Life taste good' campaign. Half of the video was shot in Malaysia and the other in Singapore by Coca Cola. It's a real honor to be associated with Coke."
-inLanguage: en
+datePublished: '2016-04-25T15:40:10.247Z'
+dateModified: '2016-04-25T15:40:09.398Z'
+author:
+  - name: TrisnoTube
+    url: 'https://www.youtube.com/user/TrisnoTube'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=OWETBtrVChE&feature=applinks'
     type: ios
@@ -59,15 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=OWETBtrVChE'
 title: "Trisno presents: Coca Cola 'Life taste good' campaign rockumentary."
-datePublished: '2016-04-17T19:33:09.869Z'
-dateModified: '2016-04-17T19:32:02.519Z'
 sourcePath: _posts/2016-04-17-trisno-presents-coca-cola-life-taste-good-campaign-rockum.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
