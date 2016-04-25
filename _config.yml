@@ -1,6 +1,6 @@
 name: terrytyelee
 favicon: null
-layout_spectrum: 0.41314
+layout_spectrum: 0.34469
 typography_spectrum: 0.19366
 title: terrytyelee
 collections:
@@ -34,8 +34,8 @@ color:
     - '#fefefe'
     - '#c6c3be'
     - '#97948f'
-  brandStrength: 0.625
-  lightness: 0.1953405
-  saturation: 0.2168459
-  rhythmicContrast: 0.2885305
+  brandStrength: 0.6875
+  lightness: 0.6875
+  saturation: 0.5625
+  rhythmicContrast: 0.75
 purpose: []
