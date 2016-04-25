@@ -4,11 +4,10 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=i1DjRLbD5i8'
 inLanguage: null
-starred: false
 keywords: []
 description: "Singapore Hip Hop group's first video from their debut album, How Did We Get Here?."
-datePublished: '2016-04-25T15:32:52.988Z'
-dateModified: '2016-04-17T20:07:52.113Z'
+datePublished: '2016-04-25T18:25:50.296Z'
+dateModified: '2016-04-25T18:25:49.277Z'
 author:
   - name: chynahouse
     url: 'https://www.youtube.com/user/chynahouse'
@@ -24,6 +23,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
