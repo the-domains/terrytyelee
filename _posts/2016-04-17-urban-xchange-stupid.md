@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=i1DjRLbD5i8'
+inLanguage: null
+starred: false
+keywords: []
+description: "Singapore Hip Hop group's first video from their debut album, How Did We Get Here?."
+datePublished: '2016-04-25T15:32:52.988Z'
+dateModified: '2016-04-17T20:07:52.113Z'
 author:
   - name: chynahouse
     url: 'https://www.youtube.com/user/chynahouse'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: "Singapore Hip Hop group's first video from their debut album, How Did We Get Here?."
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=i1DjRLbD5i8'
 title: Urban Xchange - Stupid
-datePublished: '2016-04-17T19:32:33.302Z'
-dateModified: '2016-04-17T19:31:49.478Z'
 sourcePath: _posts/2016-04-17-urban-xchange-stupid.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
