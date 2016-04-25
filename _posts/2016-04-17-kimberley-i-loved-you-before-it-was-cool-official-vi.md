@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Kimberley Chen
-    url: 'https://www.youtube.com/user/itsKimberleyChen'
-    avatar: {}
-related: []
-publisher:
-  name: YouTube
-  domain: www.youtube.com
-  url: 'https://www.youtube.com/'
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=NlLc_s6VDqU'
+inLanguage: en
 keywords:
   - kimberley
   - duration
@@ -21,7 +16,13 @@ keywords:
   - www
   - room
 description: 'Listen to "I Loved You Before It Was Cool" on KKBOX: http://kkbox.fm/qs13nP Download it on iTunes: https://itunes.apple.com/tw/album/i-loved-u-before-it-was-cool/id780181560?i=780181603 I Loved You Before It Was Cool Executive Producers: 梁永泰 and James Guirao Directed by: Young Scorsese F.Y.M ( 梁永泰 and 梁永義 ) Produced by: 梁永泰 and Kimberley Chen for SupaCalaFuturistic F*uckBitchesGetMoney Guitars Laced by The Duke of Dun Hua aka White Chocolate aka James Kerridge 作詞：梁永泰/Kimberley Chen 作曲：梁永泰/Kimberley Chen/王知音 One big room,full of whack witches One big room,full of whack witches One big room,full of whack witches One big room,full of whack witches Hey,I was just wondering how you were.'
-inLanguage: en
+datePublished: '2016-04-25T15:33:54.306Z'
+dateModified: '2016-04-25T15:33:53.660Z'
+author:
+  - name: Kimberley Chen
+    url: 'https://www.youtube.com/user/itsKimberleyChen'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=NlLc_s6VDqU&feature=applinks'
     type: ios
@@ -59,17 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=NlLc_s6VDqU'
 title: 'Kimberley 陳芳語 - "I Loved You Before It Was Cool" Official Visual (HD)'
-datePublished: '2016-04-17T19:15:51.555Z'
-dateModified: '2016-04-17T19:15:13.665Z'
-inFeed: true
-hasPage: false
-inNav: false
-starred: true
-authors: []
 sourcePath: _posts/2016-04-17-kimberley-i-loved-you-before-it-was-cool-official-vi.md
 published: true
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
