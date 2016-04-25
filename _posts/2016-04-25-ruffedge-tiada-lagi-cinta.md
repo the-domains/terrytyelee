@@ -1,14 +1,9 @@
 ---
-author:
-  - name: zabarzadjoe
-    url: 'https://www.youtube.com/user/zabarzadjoe'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=c09SQmwcYjg'
+inLanguage: en
 keywords:
   - duration
   - ruffedge
@@ -20,8 +15,14 @@ keywords:
   - phat
   - kerna
   - allynaa
-description: Uploaded by zabarzadjoe on 2013-02-17.
-inLanguage: en
+description: Those who remember know this was that jam <3
+datePublished: '2016-04-25T18:46:19.725Z'
+dateModified: '2016-04-25T18:45:54.651Z'
+author:
+  - name: ''
+    url: ''
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=c09SQmwcYjg&feature=applinks'
     type: ios
@@ -59,16 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=c09SQmwcYjg'
 title: Ruffedge - Tiada Lagi Cinta
-datePublished: '2016-04-25T18:45:47.047Z'
-dateModified: '2016-04-25T18:43:27.503Z'
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
 sourcePath: _posts/2016-04-25-ruffedge-tiada-lagi-cinta.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
 _type: VideoObject
 _context: 'http://schema.org'
 
