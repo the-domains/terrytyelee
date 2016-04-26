@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Hadymple
-    url: 'https://www.youtube.com/user/Hadymple'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=gfW7AEXdV9c'
+inLanguage: en
 keywords:
   - flizzow
   - duration
@@ -21,7 +16,13 @@ keywords:
   - terrytyelee
   - crazypuppet
 description: "Watch , listen, don't download. Please don't ask for the MP3. Go get the original. Track 10 from Joe Flizzow's Debut Solo Album - President. Now out in stores."
-inLanguage: en
+datePublished: '2016-04-26T19:36:36.893Z'
+dateModified: '2016-04-26T19:31:47.840Z'
+author:
+  - name: Hadymple
+    url: 'https://www.youtube.com/user/Hadymple'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=gfW7AEXdV9c&feature=applinks'
     type: ios
@@ -59,16 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=gfW7AEXdV9c'
 title: Complicated - Joe Flizzow ft Hady Mirza
-datePublished: '2016-04-26T19:23:13.926Z'
-dateModified: '2016-04-26T19:18:52.786Z'
-starred: false
 sourcePath: _posts/2016-04-26-complicated-joe-flizzow-ft-hady-mirza.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
