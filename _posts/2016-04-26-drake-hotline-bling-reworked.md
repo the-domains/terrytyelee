@@ -1,27 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=ucJF8kuimgI'
+inLanguage: null
+keywords: []
+description: 'ever since i left the city you...... Download Here: https://soundcloud.com/terrytyelee/hotline-bling-drake-remake www.chynahouse.com'
+datePublished: '2016-04-26T19:33:03.447Z'
+dateModified: '2016-04-26T19:30:17.249Z'
 author:
   - name: terrytyelee
     url: 'https://www.youtube.com/user/terrytyelee'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: 'ever since i left the city you...... Download Here: https://soundcloud.com/terrytyelee/hotline-bling-drake-remake www.chynahouse.com'
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=ucJF8kuimgI'
 title: Drake - Hotline Bling ReWorked
-datePublished: '2016-04-26T19:23:14.363Z'
-dateModified: '2016-04-26T19:15:06.423Z'
-starred: false
 sourcePath: _posts/2016-04-26-drake-hotline-bling-reworked.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
