@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Renee Zi-Ting Chen
-    url: 'https://www.youtube.com/user/ReneeTakeOver'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=m1Jp_FsToXU'
+inLanguage: en
 keywords:
   - duration
   - mj116
@@ -21,7 +16,13 @@ keywords:
   - records
   - ren
 description: 'Bad Bad Girl 詞/曲：Renée 陳嘉唯，E.So瘦子 (頑童MJ116） Produced by: 梁永泰（terrytyelee） Video Produced By: Storyhouse Productions.'
-inLanguage: en
+datePublished: '2016-04-26T19:55:07.180Z'
+dateModified: '2016-04-26T19:28:14.927Z'
+author:
+  - name: Renee Zi-Ting Chen
+    url: 'https://www.youtube.com/user/ReneeTakeOver'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=m1Jp_FsToXU&feature=applinks'
     type: ios
@@ -59,16 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=m1Jp_FsToXU'
 title: Renée 陳嘉唯 ~ 《Bad Bad Girl》Feat. ESO 瘦子 (頑童MJ116）
-datePublished: '2016-04-26T19:22:35.364Z'
-dateModified: '2016-04-26T19:21:21.683Z'
-starred: false
 sourcePath: _posts/2016-04-26-renee--bad-bad-girlfeat-eso-mj116.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
