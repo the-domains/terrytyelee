@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Julia Wu
-    url: 'https://www.youtube.com/user/JUICYisvip'
-    avatar: {}
-related: []
-publisher:
-  name: YouTube
-  domain: www.youtube.com
-  url: 'https://www.youtube.com/'
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=ehj8m5fCMLM'
+inLanguage: en
 keywords:
   - duration
   - julia
@@ -21,7 +16,13 @@ keywords:
   - https
   - miss
 description: 'music / lyrics / produced by : terrytyelee beat : terrytyelee / dragon vocals : Julia Wu recorded by: Yufong Chen and Qu Guo mixed by: terrytyelee 100% Chinese Made ITUNES: https://itunes.apple.com/us/album/h.-e.-n.-r.-y-single/id1070832846?ign-mpt=uo%3D4 SPOTIFY: https://open.spotify.com/album/0At2hk0ZbXfVWcvcEOO6pN EP: https://soundcloud.com/scfchynahouse/sets/henry-ep FB : https://www.facebook.com/Julia-Wu-Music-338848782792419/?fref=ts INSTA: @juliawu94 www.chynahouse.com'
-inLanguage: en
+datePublished: '2016-04-26T19:54:33.680Z'
+dateModified: '2016-04-26T19:31:38.375Z'
+author:
+  - name: Julia Wu
+    url: 'https://www.youtube.com/user/JUICYisvip'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=ehj8m5fCMLM&feature=applinks'
     type: ios
@@ -59,17 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=ehj8m5fCMLM'
 title: H.E.N.R.Y - Julia Wu
-datePublished: '2016-04-26T19:27:51.070Z'
-dateModified: '2016-04-26T19:24:47.544Z'
 sourcePath: _posts/2016-04-26-henry-julia-wu.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
 authors: []
-starred: true
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
