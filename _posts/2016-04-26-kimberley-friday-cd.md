@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=vEjK4VyOaaI'
 inLanguage: null
 keywords: []
 description: 'Kimberley - Friday 完整CD版 ~~~~ 曲：梁永泰(terrytyelee)／王知音 詞：梁永泰(terrytyelee) Kimberley 『 首張同名專輯 』 http://www.youtube.com/playlist?list=PL8CC3A9297F59AE46'
-datePublished: '2016-04-26T19:51:22.858Z'
-dateModified: '2016-04-26T19:30:25.962Z'
+datePublished: '2016-04-26T19:52:01.260Z'
+dateModified: '2016-04-26T19:51:33.554Z'
 author:
   - name: aaqq0011
     url: 'https://www.youtube.com/user/aaqq0011'
