@@ -1,28 +1,28 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=1CpdJy8R_VA'
+inLanguage: null
+keywords: []
+description: 'Mixtape: https://soundcloud.com/scfchynahouse/... www.apekao.com www.chynahouse.com music / lyrics : terrytyelee / ape kao / FishRedDragon sung by ape kao produced by terrytyelee beat by terrytyelee / FishRedDragon recorded and mixed by terrytyelee'
+datePublished: '2016-04-26T19:54:11.312Z'
+dateModified: '2016-04-26T19:27:43.381Z'
 author:
   - name: Young Scorsese
     url: 'https://www.youtube.com/user/youngscorsesefym'
     avatar: {}
 related: []
+app_links: []
+title: 唉愛唉唉愛 － APE （Music Visual）歌詞版
+sourcePath: _posts/2016-04-26-ape-music-visual.md
+published: true
+authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-keywords: []
-description: 'Mixtape: https://soundcloud.com/scfchynahouse/... www.apekao.com www.chynahouse.com music / lyrics : terrytyelee / ape kao / FishRedDragon sung by ape kao produced by terrytyelee beat by terrytyelee / FishRedDragon recorded and mixed by terrytyelee'
-app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=1CpdJy8R_VA'
-title: 唉愛唉唉愛 － APE （Music Visual）歌詞版
-datePublished: '2016-04-26T19:27:31.704Z'
-dateModified: '2016-04-26T19:25:08.439Z'
-sourcePath: _posts/2016-04-26-ape-music-visual.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-authors: []
 starred: true
 _type: VideoObject
 _context: 'http://schema.org'
