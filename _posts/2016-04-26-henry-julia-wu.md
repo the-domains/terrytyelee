@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - duration
   - julia
@@ -61,14 +61,15 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=ehj8m5fCMLM'
 title: H.E.N.R.Y - Julia Wu
-datePublished: '2016-04-26T19:24:41.518Z'
-dateModified: '2016-04-26T19:23:38.503Z'
-starred: false
+datePublished: '2016-04-26T19:27:51.070Z'
+dateModified: '2016-04-26T19:24:47.544Z'
 sourcePath: _posts/2016-04-26-henry-julia-wu.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+authors: []
+starred: true
 _type: VideoObject
 _context: 'http://schema.org'
 
