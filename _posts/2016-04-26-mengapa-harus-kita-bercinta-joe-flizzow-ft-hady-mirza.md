@@ -1,27 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=Lst4UCxLcMk'
+inLanguage: null
+keywords: []
+description: "Watch , listen, don't download. Please don't message me for the MP3. Go get the original. Malay version of Complicated from Joe Flizzow's Debut Solo Album - President. Now out in stores. This song is a nominee in the Best Hip Hop Song - Composer/Lyricist category in AIM2009."
+datePublished: '2016-04-26T19:50:45.613Z'
+dateModified: '2016-04-26T19:28:40.276Z'
 author:
   - name: Hadymple
     url: 'https://www.youtube.com/user/Hadymple'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: "Watch , listen, don't download. Please don't message me for the MP3. Go get the original. Malay version of Complicated from Joe Flizzow's Debut Solo Album - President. Now out in stores. This song is a nominee in the Best Hip Hop Song - Composer/Lyricist category in AIM2009."
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=Lst4UCxLcMk'
 title: Mengapa Harus Kita Bercinta - Joe Flizzow ft Hady Mirza
-datePublished: '2016-04-26T19:23:13.291Z'
-dateModified: '2016-04-26T19:20:50.825Z'
-starred: false
 sourcePath: _posts/2016-04-26-mengapa-harus-kita-bercinta-joe-flizzow-ft-hady-mirza.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
