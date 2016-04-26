@@ -16,8 +16,8 @@ keywords:
   - keran
   - terrytyelee
 description: 'World So Cold, the first single by The Trisno Trio from their debut album, Egypt. Written by Terry Tye Lee and produced by Terry Tye Lee and Ezekiel "FlightSch" Keran. Performed by The Trisno Trio.'
-datePublished: '2016-04-26T19:36:28.797Z'
-dateModified: '2016-04-26T19:32:16.740Z'
+datePublished: '2016-04-26T19:53:32.102Z'
+dateModified: '2016-04-26T19:36:40.482Z'
 author:
   - name: TrisnoTube
     url: 'https://www.youtube.com/user/TrisnoTube'
