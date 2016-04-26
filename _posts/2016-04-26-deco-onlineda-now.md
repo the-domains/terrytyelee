@@ -1,14 +1,9 @@
 ---
-author:
-  - name: unalisgame
-    url: 'https://www.youtube.com/user/unalisgame'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=8EIMsNk6Kcw'
+inLanguage: en
 keywords:
   - duration
   - views
@@ -21,7 +16,13 @@ keywords:
   - mouth
   - benck79
 description: ''
-inLanguage: en
+datePublished: '2016-04-26T19:54:43.322Z'
+dateModified: '2016-04-26T19:32:46.623Z'
+author:
+  - name: unalisgame
+    url: 'https://www.youtube.com/user/unalisgame'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=8EIMsNk6Kcw&feature=applinks'
     type: ios
@@ -59,16 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=8EIMsNk6Kcw'
 title: 'DECO Online遊戲主題曲:【大嘴巴】DA NOW一場'
-datePublished: '2016-04-26T19:23:14.508Z'
-dateModified: '2016-04-26T19:12:38.557Z'
-starred: false
 sourcePath: _posts/2016-04-26-deco-onlineda-now.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
