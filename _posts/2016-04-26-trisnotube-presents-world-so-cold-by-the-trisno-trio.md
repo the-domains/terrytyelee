@@ -1,14 +1,9 @@
 ---
-author:
-  - name: TrisnoTube
-    url: 'https://www.youtube.com/user/TrisnoTube'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=zZGGPbisxaw'
+inLanguage: en
 keywords:
   - duration
   - trisno
@@ -21,7 +16,13 @@ keywords:
   - keran
   - terrytyelee
 description: 'World So Cold, the first single by The Trisno Trio from their debut album, Egypt. Written by Terry Tye Lee and produced by Terry Tye Lee and Ezekiel "FlightSch" Keran. Performed by The Trisno Trio.'
-inLanguage: en
+datePublished: '2016-04-26T19:36:28.797Z'
+dateModified: '2016-04-26T19:32:16.740Z'
+author:
+  - name: TrisnoTube
+    url: 'https://www.youtube.com/user/TrisnoTube'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=zZGGPbisxaw&feature=applinks'
     type: ios
@@ -59,16 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=zZGGPbisxaw'
 title: 'TrisnoTube presents: World So Cold by The Trisno Trio'
-datePublished: '2016-04-26T19:23:13.867Z'
-dateModified: '2016-04-26T19:18:31.039Z'
-starred: false
 sourcePath: _posts/2016-04-26-trisnotube-presents-world-so-cold-by-the-trisno-trio.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
