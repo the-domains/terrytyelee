@@ -1,14 +1,9 @@
 ---
-author:
-  - name: aaqq0011
-    url: 'https://www.youtube.com/user/aaqq0011'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=wHCTkeF9lOI'
+inLanguage: en
 keywords:
   - kimberley
   - duration
@@ -21,7 +16,13 @@ keywords:
   - '938'
   - video
 description: 'Kimberley - Satellite 完整CD版 ~~~~ 詞 ／曲：梁永泰(terrytyelee)／Kimberley Kimberley 『 首張同名專輯 』 http://www.youtube.com/playlist?list=PL8CC3A9297F59AE46'
-inLanguage: en
+datePublished: '2016-04-26T19:50:37.910Z'
+dateModified: '2016-04-26T19:28:49.125Z'
+author:
+  - name: aaqq0011
+    url: 'https://www.youtube.com/user/aaqq0011'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=wHCTkeF9lOI&feature=applinks'
     type: ios
@@ -59,16 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=wHCTkeF9lOI'
 title: Kimberley - Satellite 完整CD版
-datePublished: '2016-04-26T19:23:13.095Z'
-dateModified: '2016-04-26T19:20:29.743Z'
-starred: false
 sourcePath: _posts/2016-04-26-kimberley-satellite-cd.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
