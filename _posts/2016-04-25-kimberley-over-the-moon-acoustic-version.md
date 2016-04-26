@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Kimberley Chen
-    url: 'https://www.youtube.com/user/itsKimberleyChen'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=07PV2ECZ2tI'
+inLanguage: en
 keywords:
   - kimberley
   - duration
@@ -21,7 +16,13 @@ keywords:
   - http
   - version
 description: 'Listen to "Over The Moon" on KKBOX: http://kkbox.fm/qs1rnO Executive Producer: 梁永泰（terrytyelee) Over The Moon (Acoustic Version) Acoustic Remix Produced by: Colin Black and James Kerridge Up On The Roof Crew: The WhatNots ／Colin Black／ James Kerridge ／ 高愷蔚 APE Puppeters: 余竑龍 ／ UDG Directed by: Director YSFYM ( 梁永泰 ／'
-inLanguage: en
+datePublished: '2016-04-26T19:54:58.200Z'
+dateModified: '2016-04-25T18:41:06.105Z'
+author:
+  - name: Kimberley Chen
+    url: 'https://www.youtube.com/user/itsKimberleyChen'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=07PV2ECZ2tI&feature=applinks'
     type: ios
@@ -59,16 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=07PV2ECZ2tI'
 title: Kimberley 陳芳語 ： Over The Moon Acoustic Version
-datePublished: '2016-04-25T18:41:02.556Z'
-dateModified: '2016-04-25T18:19:58.416Z'
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
 sourcePath: _posts/2016-04-25-kimberley-over-the-moon-acoustic-version.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
 _type: VideoObject
 _context: 'http://schema.org'
 
