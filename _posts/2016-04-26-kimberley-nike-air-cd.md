@@ -1,27 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=_Zvzr7UDnME'
+inLanguage: null
+keywords: []
+description: 'Kimberley - Nike Air 完整CD版 ~~~~ 曲：梁永泰(terrytyelee)／王知音 詞：梁永泰(terrytyelee) Kimberley 『 首張同名專輯 』 http://www.youtube.com/playlist?list=PL8CC3A9297F59AE46'
+datePublished: '2016-04-26T19:51:32.382Z'
+dateModified: '2016-04-26T19:31:16.170Z'
 author:
   - name: aaqq0011
     url: 'https://www.youtube.com/user/aaqq0011'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: 'Kimberley - Nike Air 完整CD版 ~~~~ 曲：梁永泰(terrytyelee)／王知音 詞：梁永泰(terrytyelee) Kimberley 『 首張同名專輯 』 http://www.youtube.com/playlist?list=PL8CC3A9297F59AE46'
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=_Zvzr7UDnME'
 title: Kimberley - Nike Air 完整CD版
-datePublished: '2016-04-26T19:23:13.604Z'
-dateModified: '2016-04-26T19:19:20.307Z'
-starred: false
 sourcePath: _posts/2016-04-26-kimberley-nike-air-cd.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
