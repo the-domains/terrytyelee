@@ -16,8 +16,8 @@ keywords:
   - music
   - jvr
 description: 'Up On The Roof：分手說愛你 Executive Producers: 梁永泰 （terrytyelee）／ 陶山 （Skot Suyama） ／ James Guirao 曲: Skot Suyama (陶山) 詞： 廖允杰/左光平 Guitar: Skot Suyama / James Kerridge Miracle Drum Box: Seven Backing Vocals: Christine Welch / 艷薇 Evangeline Directed by: Young Scorsese F.Y.M （James Guirao , 梁永泰 [terrytyelee] ，Max Opamuratawongse ) 更多詳細資訊請上： ◎Kimberley Chen Official FB https://www.facebook.com/heyitskimberley'
-datePublished: '2016-04-25T18:27:23.122Z'
-dateModified: '2016-04-25T18:25:14.722Z'
+datePublished: '2016-04-26T19:55:22.055Z'
+dateModified: '2016-04-25T18:27:33.835Z'
 author:
   - name: Kimberley Chen
     url: 'https://www.youtube.com/user/itsKimberleyChen'
