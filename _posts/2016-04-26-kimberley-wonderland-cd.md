@@ -1,14 +1,9 @@
 ---
-author:
-  - name: aaqq0011
-    url: 'https://www.youtube.com/user/aaqq0011'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=kccH69HPUpI'
+inLanguage: en
 keywords:
   - kimberley
   - duration
@@ -21,7 +16,13 @@ keywords:
   - lala
   - official
 description: 'Kimberley - Wonderland 完整CD版 ~~~~ 曲：梁永泰(terrytyelee) 詞：梁永泰(terrytyelee)／Kimberley Kimberley 『 首張同名專輯 』 http://www.youtube.com/playlist?list=PL8CC3A9297F59AE46'
-inLanguage: en
+datePublished: '2016-04-26T19:51:13.339Z'
+dateModified: '2016-04-26T19:29:42.998Z'
+author:
+  - name: aaqq0011
+    url: 'https://www.youtube.com/user/aaqq0011'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=kccH69HPUpI&feature=applinks'
     type: ios
@@ -59,16 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=kccH69HPUpI'
 title: Kimberley - Wonderland 完整CD版
-datePublished: '2016-04-26T19:23:13.294Z'
-dateModified: '2016-04-26T19:19:49.089Z'
-starred: false
 sourcePath: _posts/2016-04-26-kimberley-wonderland-cd.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
