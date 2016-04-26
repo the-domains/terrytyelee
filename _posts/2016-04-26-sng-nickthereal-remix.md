@@ -1,14 +1,9 @@
 ---
-author:
-  - name: nickthereal0802
-    url: 'https://www.youtube.com/user/nickthereal0802'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=_-OPDKWjYGo'
+inLanguage: en
 keywords:
   - duration
   - nickthereal0802
@@ -21,7 +16,13 @@ keywords:
   - lin
   - https
 description: 'NICKTHEREAL REMIX feat TerryTyeLee FB: https://www.facebook.com/nickeveryday SoundCloud: https://soundcloud.com/nickthereal-2'
-inLanguage: en
+datePublished: '2016-04-26T19:50:55.865Z'
+dateModified: '2016-04-26T19:29:12.630Z'
+author:
+  - name: nickthereal0802
+    url: 'https://www.youtube.com/user/nickthereal0802'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=_-OPDKWjYGo&feature=applinks'
     type: ios
@@ -59,16 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=_-OPDKWjYGo'
 title: 周湯豪 SNG (NICKTHEREAL REMIX)
-datePublished: '2016-04-26T19:23:13.350Z'
-dateModified: '2016-04-26T19:20:04.590Z'
-starred: false
 sourcePath: _posts/2016-04-26-sng-nickthereal-remix.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
