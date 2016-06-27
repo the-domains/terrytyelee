@@ -1,27 +1,36 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=4ATn_bfbAPQ'
+inLanguage: null
+keywords: []
+description: >-
+  沒有辦法沒有你 MYBF SCFBGM REWORK 製作人 Produced, Arranged and Mixed by ：梁永泰
+  （terrytyelee）／ 語竑龍 （Red Dragon） Check out the original version here:
+  http://kkbox.fm/Fs0azg For more on Kimbo:
+  http://www.facebook.com/heyitskimberley Instagram: @kimble_
+  http://www.instagram.com/kimble_ http://www.weibo.com/kimberleychen For more
+  on SupaCalaFuturistic http://www.facebook,com/scf9000 http://www.scfbgm.com
+  http://www.facebook.com/APE.KAO https://www.facebook.com/007JamesMusic Get
+  #kimbonomics today!!!!
+datePublished: '2016-06-27T02:34:34.537Z'
+dateModified: '2016-04-26T19:28:22.289Z'
 author:
   - name: Kimberley Chen
     url: 'https://www.youtube.com/user/itsKimberleyChen'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: '沒有辦法沒有你 MYBF SCFBGM REWORK 製作人 Produced, Arranged and Mixed by ：梁永泰 （terrytyelee）／ 語竑龍 （Red Dragon） Check out the original version here: http://kkbox.fm/Fs0azg For more on Kimbo: http://www.facebook.com/heyitskimberley Instagram: @kimble_ http://www.instagram.com/kimble_ http://www.weibo.com/kimberleychen For more on SupaCalaFuturistic http://www.facebook,com/scf9000 http://www.scfbgm.com http://www.facebook.com/APE.KAO https://www.facebook.com/007JamesMusic Get #kimbonomics today!!!!'
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=4ATn_bfbAPQ'
 title: Kimberley 陳芳語 ：沒有辦法沒有你 MYBF SCFBGM REWORK ( KIMBO X SUPACALAFUTURISTIC)
-datePublished: '2016-04-26T19:23:13.069Z'
-dateModified: '2016-04-26T19:21:04.516Z'
-starred: false
 sourcePath: _posts/2016-04-26-kimberley-mybf-scfbgm-rework-kimbo-x-supacala.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
