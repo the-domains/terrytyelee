@@ -15,9 +15,11 @@ keywords:
   - renee
   - records
   - ren
-description: 'Bad Bad Girl 詞/曲：Renée 陳嘉唯，E.So瘦子 (頑童MJ116） Produced by: 梁永泰（terrytyelee） Video Produced By: Storyhouse Productions.'
-datePublished: '2016-04-26T19:55:07.180Z'
-dateModified: '2016-04-26T19:28:14.927Z'
+description: >-
+  Bad Bad Girl 詞/曲：Renée 陳嘉唯，E.So瘦子 (頑童MJ116） Produced by: 梁永泰（terrytyelee）
+  Video Produced By: Storyhouse Productions.
+datePublished: '2016-06-27T02:34:11.622Z'
+dateModified: '2016-04-26T19:55:18.655Z'
 author:
   - name: Renee Zi-Ting Chen
     url: 'https://www.youtube.com/user/ReneeTakeOver'
@@ -62,7 +64,6 @@ app_links:
     type: ios
 title: Renée 陳嘉唯 ~ 《Bad Bad Girl》Feat. ESO 瘦子 (頑童MJ116）
 sourcePath: _posts/2016-04-26-renee--bad-bad-girlfeat-eso-mj116.md
-published: true
 authors: []
 publisher:
   name: YouTube
