@@ -15,9 +15,17 @@ keywords:
   - terrytyelee
   - https
   - miss
-description: 'music / lyrics / produced by : terrytyelee beat : terrytyelee / dragon vocals : Julia Wu recorded by: Yufong Chen and Qu Guo mixed by: terrytyelee 100% Chinese Made ITUNES: https://itunes.apple.com/us/album/h.-e.-n.-r.-y-single/id1070832846?ign-mpt=uo%3D4 SPOTIFY: https://open.spotify.com/album/0At2hk0ZbXfVWcvcEOO6pN EP: https://soundcloud.com/scfchynahouse/sets/henry-ep FB : https://www.facebook.com/Julia-Wu-Music-338848782792419/?fref=ts INSTA: @juliawu94 www.chynahouse.com'
-datePublished: '2016-04-26T19:54:33.680Z'
-dateModified: '2016-04-26T19:31:38.375Z'
+description: >-
+  music / lyrics / produced by : terrytyelee beat : terrytyelee / dragon vocals
+  : Julia Wu recorded by: Yufong Chen and Qu Guo mixed by: terrytyelee 100%
+  Chinese Made ITUNES:
+  https://itunes.apple.com/us/album/h.-e.-n.-r.-y-single/id1070832846?ign-mpt=uo%3D4
+  SPOTIFY: https://open.spotify.com/album/0At2hk0ZbXfVWcvcEOO6pN EP:
+  https://soundcloud.com/scfchynahouse/sets/henry-ep FB :
+  https://www.facebook.com/Julia-Wu-Music-338848782792419/?fref=ts INSTA:
+  @juliawu94 www.chynahouse.com
+datePublished: '2016-06-27T02:33:59.577Z'
+dateModified: '2016-04-26T19:54:44.781Z'
 author:
   - name: Julia Wu
     url: 'https://www.youtube.com/user/JUICYisvip'
@@ -62,7 +70,6 @@ app_links:
     type: ios
 title: H.E.N.R.Y - Julia Wu
 sourcePath: _posts/2016-04-26-henry-julia-wu.md
-published: true
 authors: []
 publisher:
   name: YouTube
