@@ -1,8 +1,36 @@
-name: terrytyelee
-favicon: null
-layout_spectrum: 0.94073
 typography_spectrum: 0.01336
-title: terrytyelee
+color:
+  brandColors:
+    - '#ffffff'
+    - '#000000'
+    - '#2c3d48'
+    - '#929ba2'
+    - '#68767f'
+  brandStrength: 0.75
+  lightness: 0.5625
+  saturation: 0.5625
+  rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.94073
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: terrytyelee
+  email: tye@scf9000.com
+  url: www.terrytyelee.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a5d5c68-6500-44a1-9347-458913df1a2f.jpg
+name: terrytyelee
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +43,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#2c3d48'
-    - '#929ba2'
-    - '#68767f'
-  brandStrength: 0.75
-  lightness: 0.5625
-  saturation: 0.5625
-  rhythmicContrast: 0.5
+title: terrytyelee
 purpose: []
